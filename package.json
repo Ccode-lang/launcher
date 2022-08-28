@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "minecraft-launcher-core": "^3.16.13"
+  }
+}
